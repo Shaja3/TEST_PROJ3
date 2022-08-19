@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Project-2-RecyclerView-App</string>
+    <string name="res1">McDonalds</string>
+    <string name="res2">KFC</string>
+    <string name="res3">Casa Pasta</string>
+    <string name="res4">Subway</string>
+    <string name="res5">Kudo</string>
+    <string name="res6">Pastalita</string>
+    <string name="res7">Burgerizzr</string>
+    <string name="res8">Herfy</string>
+    <string name="items5">5 items</string>
+</resources>
